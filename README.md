@@ -19,7 +19,10 @@ The simulation collects and compares flux distributions, reaction rates, and spe
 ## Reference
 For detailed OpenMC documentation, please visit the official guide:  
 🔗 [https://docs.openmc.org/en/stable/](https://docs.openmc.org/en/stable/)
+## Simulation Animation
 
+Check out the neutron flux evolution video:
+[Watch the video](flux_animation.mp4)
 ## Author
 **Emil Mammadzada**  
  
