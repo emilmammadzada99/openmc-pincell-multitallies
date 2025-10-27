@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<geometry>
+  <cell id="261" material="261" region="-456" universe="66"/>
+  <cell id="262" material="262" region="456 -457" universe="66"/>
+  <cell id="263" material="263" region="457 -458" universe="66"/>
+  <cell id="264" material="264" region="458 459 -460 461 -462" universe="66"/>
+  <surface coeffs="0.0 0.0 0.39218" id="456" type="z-cylinder"/>
+  <surface coeffs="0.0 0.0 0.40005" id="457" type="z-cylinder"/>
+  <surface coeffs="0.0 0.0 0.4572" id="458" type="z-cylinder"/>
+  <surface boundary="reflective" coeffs="-0.62992" id="459" name="minimum x" type="x-plane"/>
+  <surface boundary="reflective" coeffs="0.62992" id="460" name="maximum x" type="x-plane"/>
+  <surface boundary="reflective" coeffs="-0.62992" id="461" name="minimum y" type="y-plane"/>
+  <surface boundary="reflective" coeffs="0.62992" id="462" name="maximum y" type="y-plane"/>
+</geometry>
