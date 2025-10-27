@@ -82,7 +82,7 @@ settings.entropy_mesh = entropy_mesh
 settings.export_to_xml()
 
 ###############################################################################
-# Mesh tanımlaması
+# 
 mesh = openmc.RegularMesh()
 mesh.dimension = (14, 14)
 mesh.lower_left = (-pitch/2, -pitch/2)
