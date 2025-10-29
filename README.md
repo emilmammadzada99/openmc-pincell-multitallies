@@ -24,6 +24,8 @@ For detailed OpenMC documentation, please visit the official guide:
 ![Flux GIF](flux.gif)
 Check out the neutron flux evolution video:
 [Watch the video](flux_animation.mp4)
+## Depletion Step Animation
+![Deplete GIF](flux-depletion-steps/mesh_animation.gif)
 ## Author
 **Emil Mammadzada**  
  
